@@ -1,7 +1,8 @@
 body footer{
     margin: 0;
     background-color: blanchedalmond;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
 }
 
 h1 p footer {
